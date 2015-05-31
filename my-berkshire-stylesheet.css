@@ -1,3 +1,51 @@
-html {
+/*html {
   background-color: red;
+}*/
+
+body {
+	color: #000080;
+	background-color: #ffffff;
+}
+
+a {
+	color: #800080;
+}
+
+a:visited {
+	color: #ff0000;
+}
+
+header {
+	font-weight: bold;
+	text-align: center;
+/*	margin-left: auto;
+	margin-right: auto;
+	display: block;*/
+}
+
+.bh {
+	font-size: 1.7em;
+}
+
+#inc {
+	font-size: .8em;
+}
+
+#title {
+	font-size: 1.5em;
+}
+
+#address {
+	font-size: .8em;
+}
+
+#ohp {
+	font-size: 1em;
+}
+
+section {
+	border-top: 1px solid #aaaaaa;
+	margin-top: 15px;
+	border-bottom: 1px solid #aaaaaa;
+	margin-bottom: 15px;
 }
