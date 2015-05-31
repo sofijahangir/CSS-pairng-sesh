@@ -18,9 +18,6 @@ a:visited {
 header {
 	font-weight: bold;
 	text-align: center;
-/*	margin-left: auto;
-	margin-right: auto;
-	display: block;*/
 }
 
 .bh {
@@ -43,9 +40,34 @@ header {
 	font-size: 1em;
 }
 
-section {
+/*section {
 	border-top: 1px solid #aaaaaa;
 	margin-top: 15px;
 	border-bottom: 1px solid #aaaaaa;
 	margin-bottom: 15px;
+}*/
+
+#geico {
+	text-align:center;
+	font-size: .6em;
+}
+
+.linebreaks {
+	border-top: 1px solid #aaaaaa;
+	margin-top: 15px;
+	border-bottom: 1px solid #aaaaaa;
+	margin-bottom: 15px;
+}
+
+p.linebreaks {
+	font-size: .8em;
+	padding: 15px;
+}
+
+#copyright {
+	font-size: .6em;
+}
+
+p span {
+	font-weight: bold;
 }
